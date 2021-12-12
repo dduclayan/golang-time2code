@@ -1,7 +1,0 @@
-//this is a comment
-func(a, b)
-/* block
-test
-// more comment
-comment
-ends */
