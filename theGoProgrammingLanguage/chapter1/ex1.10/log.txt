@@ -1,0 +1,5 @@
+0.13s    15106  https://google.com
+0.23s    91334  https://arstechnica.com
+0.41s    20313  http://devin.duclayan.com
+1.43s   768258  https://reddit.com
+1.44s elapsed
