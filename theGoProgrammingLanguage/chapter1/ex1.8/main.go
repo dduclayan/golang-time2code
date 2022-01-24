@@ -22,7 +22,7 @@ func main() {
 	}
 
 	for _, url := range os.Args[1:] {
-		httpCheck(&url)
+		httpCheck(&url) // using pointer address b/c we are modifying the original arg(url) passed in
 
 		resp, err := http.Get(url)
 		if err != nil {
